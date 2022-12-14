@@ -1,7 +1,7 @@
 # Hello world
 
 
-```golang
+```go
 // hello world in go
 package main
 
